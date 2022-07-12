@@ -67,6 +67,8 @@ Write a function in Java that:
 - to find the country with the highest number of official languages.
 - to find the most common official language(s), of all countries.
 
+You can find the JSON files inside resources folder, containing two files, both was based on JSON above listed but was modified to make some tests.
+
 ## Requirements
 
 - It was made with Java 18 but should be compatible with 11 and above.
