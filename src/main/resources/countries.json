@@ -1,0 +1,36 @@
+[
+  {
+    "country":"US",
+    "languages":[
+      "en"
+    ]
+  },
+  {
+    "country":"BE",
+    "languages":[
+      "nl",
+      "fr",
+      "de"
+    ]
+  },
+  {
+    "country":"NL",
+    "languages":[
+      "fy",
+      "nl",
+      "fy"
+    ]
+  },
+  {
+    "country":"DE",
+    "languages":[
+      "de"
+    ]
+  },
+  {
+    "country":"ES",
+    "languages":[
+      "es"
+    ]
+  }
+]
